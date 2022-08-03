@@ -2,7 +2,7 @@ import React from "react";
 
 function ColorList() {
   const colors = [
-    // "firebrick",
+    "firebrick",
     "rebeccapurple",
     "salmon",
     "darkslategray",
